@@ -15,10 +15,12 @@ MainWindowGUI::MainWindowGUI(QWidget* parent)
 	
 }
 
-/*/
+// TO DO: StartWindow
 void MainWindowGUI::open_StartWindow() {
 	qDebug() << "Open";
-}*/
+}
+
+
 /*
 MainWindowGUI::
 */
