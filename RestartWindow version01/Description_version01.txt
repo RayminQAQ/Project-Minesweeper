@@ -1,0 +1,8 @@
+About the change in version01
+  - Design the whole GUI framework, as MainWainWindowGUI .cpp .h
+  - Design one of the window being used: RestartWindowGUI .cpp .h 
+  - Constructor of RestartWindowGUI
+
+Problem: can't find a way to pass parameter(ex: state) into constructor
+
+Note: the main.cpp is for just debugging
