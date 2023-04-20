@@ -1,0 +1,8 @@
+About the change in version02
+  - Add multiple function in MainWainWindowGUI .cpp .h
+  - Connect class MainWainWindowGUI slot and RestartWindowGUI signal in the RestartWindowGUI constructor
+
+Problem: Need to merge into main
+
+Note1: the main.cpp is for just debugging
+Note2: this version can be a example of how to connect between class A and class B(which is in the B) - HARDEST PART
