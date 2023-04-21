@@ -10,5 +10,5 @@ Note2: the hide and show of the QComboBox is not done
   	- Idea: use onComboBoxIndexChanged to manipulate the hide and show of the hLayout
 	- Idea: use hLayout->setEnabled(false) // Hide
 
-[Reference]
-	https://forum.qt.io/topic/61472/how-to-hide-the-horizontallayout/2
+[Reference]：about hiding layout
+	https://forum.qt.io/topic/61472/how-to-hide-the-horizontallayout
