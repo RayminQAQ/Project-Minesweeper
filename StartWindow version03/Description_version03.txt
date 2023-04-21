@@ -16,4 +16,13 @@ Note2: the hide and show of the QComboBox is still not done
    - Idea2: use hLayout->setEnabled(false) // Hide -> QLayout::setEnabled
    - Idea2: or hide Widget -> setVisible(false);
 	https://forum.qt.io/topic/61472/how-to-hide-the-horizontallayout
+
+Note3: 關於載入類型
+	- 盤面檔：要讀檔 fstream
+	- 指定炸彈數量盤面：不用讀檔
+	- 指定炸彈生成綠盤面：不用讀檔
 	
+Note3: 關於載入類型的例外處理
+	- 盤面檔： 
+	- 指定炸彈數量盤面：炸彈數量可以是0
+	- 指定炸彈生成綠盤面：炸彈生成機率可以是0
