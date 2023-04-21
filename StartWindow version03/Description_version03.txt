@@ -1,0 +1,19 @@
+About the change in RestartWindow version03
+  - Add private variable
+  - No modificaation for MainWindowGUI
+  - The whole board would look like
+
+[Problem/TO-DO]: Need to hide and show according to the index of QcomboBox
+[Problem/TO-DO]: Signal for MainWindowGUI
+[Problem/TO-DO]: Connect GUI function with other .cpp file
+
+
+Note1: the main.cpp is for just debugging
+
+Note2: the hide and show of the QComboBox is still not done
+   - Idea1: use onComboBoxIndexChanged to manipulate the hide and show of the hLayout
+
+   - Idea2: use hLayout->setEnabled(false) // Hide -> QLayout::setEnabled
+   - Idea2: or hide Widget -> setVisible(false);
+	https://forum.qt.io/topic/61472/how-to-hide-the-horizontallayout
+	
