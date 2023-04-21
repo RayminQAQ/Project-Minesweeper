@@ -1,0 +1,9 @@
+About the change in StartWindow version01
+  - Adding new file (StartWindow .cpp .h) from RestartWindow version02
+  - Constructor of StartWindow
+  - No modificaation for MainWindowGUI
+
+Problem: can't find a GOOD way for QcomboBox design
+
+Note1: the main.cpp is for just debugging
+Note2: all connection of the QObject have not done in the version
