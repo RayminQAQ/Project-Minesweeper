@@ -1,0 +1,11 @@
+About the change in RestartWindow version02
+  - Add and change multiple function in RestartWindow .cpp .h
+  - No modificaation for MainWindowGUI
+  - Connect object in the consturctor signal with class function
+
+Problem: Need to merge into main
+
+Note1: the main.cpp is for just debugging
+Note2: the hide and show of the QComboBox is not done
+  	- Idea: use onComboBoxIndexChanged to manipulate the hide and show of the hLayout
+	- Idea: use hLayout->setEnabled(false) // Hide
