@@ -1,0 +1,7 @@
+About the change in RestartWindow version04
+  - Complete all the connection between QT object and button click
+  - Use qDebug() to check the value change(the place function place in)
+
+[TODO]：
+-  Add the function in source code
+- Add the callback with mainWindowGUI 
