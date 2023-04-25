@@ -1,0 +1,10 @@
+About this version
+	- Check the Window and other file is runnable
+
+TO DO
+  - Merge all the file(Window x 3 && console)
+  - Fix some of the function for Window
+  - Update the console file
+
+編譯方式：
+	按下右鍵：【在終端中開啟】，在終端中輸入檔案名稱 (注意：路徑必須正確) + GUI
