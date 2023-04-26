@@ -1,0 +1,7 @@
+﻿  moc StartWindow.h
+  MainWindowGUI.cpp
+  StartWindow.cpp
+  main.cpp
+  moc_MainWindowGUI.cpp
+  moc_StartWindow.cpp
+  QtRestartWindow_v02.vcxproj -> C:\QTProject\TEST\RestartWindows\QtRestartWindow_v02\x64\Release\QtRestartWindow_v02.exe
